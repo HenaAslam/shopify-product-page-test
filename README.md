@@ -7,3 +7,4 @@ section) to implement the three badge elements on the product page.
 No external frameworks or headless setup were used.
 
 Preview access is provided separately as requested.
+Submission ready.
